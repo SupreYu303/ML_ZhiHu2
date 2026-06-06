@@ -116,7 +116,7 @@ SHAP Top 5 特征重要性:
 | 4 | floor_strength | 6.6796 |
 | 5 | coal_strength | 6.0058 |
 
-SHAP 重要性最高特征为 depth，而 Pearson 相关性最高特征为 roof_strength，说明模型捕捉到了非线性耦合关系。depth 增大整体倾向于提高预测顶板位移。
+SHAP 重要性最高特征为 depth，而 Pearson 相关性最高特征为 roof_strength，说明模型捕捉到了非线性耦合关系。depth 增大整体倾向于提高预测顶板位移。进一步的 SHAP 非线性影响与边际效应分析表明，depth、roof_strength 和 anchor_density 对模型输出存在明显区间敏感性，其中 depth 在高埋深区间对预测位移具有更强正向贡献，anchor_density 整体表现为负向贡献且可能存在支护边际收益递减现象。进一步的 SHAP 非线性影响与边际效应分析表明，depth、roof_strength 和 anchor_density 对模型输出存在明显区间敏感性，其中 depth 在高埋深区间对预测位移具有更强正向贡献，anchor_density 整体表现为负向贡献且可能存在支护边际收益递减现象。进一步的 SHAP 非线性影响与边际效应分析表明，depth、roof_strength 和 anchor_density 对模型输出存在明显区间敏感性，其中 depth 在高埋深区间对预测位移具有更强正向贡献，anchor_density 整体表现为负向贡献且可能存在支护边际收益递减现象。
 
 ## 11. 十折交叉验证与最终测试集评价
 
