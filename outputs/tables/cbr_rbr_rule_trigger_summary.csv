@@ -1,0 +1,9 @@
+﻿rule,trigger_count
+depth_high,6
+roof_strength_low,6
+support_bolt_weak,4
+anchor_density_low,3
+support_anchor_weak,1
+coal_strength_low,1
+width_high,1
+bolt_area_low,1

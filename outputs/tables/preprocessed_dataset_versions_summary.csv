@@ -1,0 +1,6 @@
+﻿version,file_path,sample_count,feature_count,target_min,target_max,target_mean,target_std,description
+dataset_full,D:\AgentWorkspace\zhihu_final\data\processed\dataset_full.csv,200,10,2.5,454.0,75.08435000000001,78.04198494817231,未删除任何样本的完整数据集
+dataset_deduplicated,D:\AgentWorkspace\zhihu_final\data\processed\dataset_deduplicated.csv,198,10,2.5,454.0,75.57661616161616,78.2540711784646,按特征去重（保留 id 最小）后的数据集
+dataset_winsorized,D:\AgentWorkspace\zhihu_final\data\processed\dataset_winsorized.csv,200,10,2.5,454.0,75.08435000000001,78.04198494817231,IQR Winsorize 截尾（roof_displacement 未截尾）
+dataset_modeling_176,D:\AgentWorkspace\zhihu_final\data\processed\dataset_modeling_176.csv,186,10,2.5,200.0,58.00790322580646,44.336308278836086,剔除极端高响应样本后的主建模数据
+dataset_risk_labeled,D:\AgentWorkspace\zhihu_final\data\processed\dataset_risk_labeled.csv,200,10,2.5,454.0,75.08435000000001,78.04198494817231,标注高风险标签（displacement > 200）的数据

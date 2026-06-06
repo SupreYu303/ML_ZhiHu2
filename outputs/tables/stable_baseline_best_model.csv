@@ -1,0 +1,2 @@
+﻿model,short_name,train_R2,train_MAE,train_RMSE,test_R2,test_MAE,test_RMSE,test_SMAPE,CV_R2_mean,CV_R2_std,CV_RMSE_mean,CV_RMSE_std
+XGBoost,XGBoost,0.9824,4.2177,5.6009,0.8512,13.2433,17.1212,38.1153,0.485,0.248,28.2658,9.7623

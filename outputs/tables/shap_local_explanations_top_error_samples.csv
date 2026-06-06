@@ -1,0 +1,6 @@
+﻿sample_index,y_true,y_pred,prediction_error,top_positive_feature,top_positive_shap,top_negative_feature,top_negative_shap,top_1_feature,top_1_shap,top_2_feature,top_2_shap,top_3_feature,top_3_shap
+14,69.0,23.7975,45.2025,fracture_degree,4.322099,floor_strength,-17.412458,floor_strength,-17.412458,bolt_area,-7.88005,width,-6.965118
+17,142.0,109.733,32.267,depth,45.697662,anchor_density,-6.012764,depth,45.697662,coal_strength,9.12649,bolt_area,8.634049
+8,84.0,53.3744,30.6256,bolt_area,6.548283,depth,-7.924875,depth,-7.924875,coal_strength,-7.190965,bolt_area,6.548283
+7,28.47,56.4379,27.9679,roof_strength,9.596714,depth,-6.334054,roof_strength,9.596714,anchor_density,8.318229,depth,-6.334054
+32,75.0,101.538,26.538,roof_strength,21.195932,anchor_density,-12.42063,roof_strength,21.195932,anchor_density,-12.42063,floor_strength,9.876339

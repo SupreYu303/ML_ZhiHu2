@@ -1,0 +1,5 @@
+﻿id,fracture_degree,coal_strength,floor_strength,roof_strength,depth,width,bolt_area,anchor_density,roof_displacement
+110,0.0,11.03,26.7,48.86,420.0,5.2,1.44,1.67,47.0
+196,0.0,11.03,26.7,48.86,420.0,5.2,1.44,1.67,47.0
+25,1.0,14.0,33.5,46.19,289.0,4.2,0.81,2.22,5.7
+165,1.0,14.0,33.5,46.19,289.0,4.2,0.81,2.22,5.7

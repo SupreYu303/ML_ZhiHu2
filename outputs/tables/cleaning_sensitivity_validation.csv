@@ -1,0 +1,5 @@
+﻿模型,原始数据RMSE,清洗后RMSE
+Ridge,73.83,40.21
+SVR,73.72,37.24
+Random Forest,73.18,34.75
+Gradient Boosting,74.15,35.71

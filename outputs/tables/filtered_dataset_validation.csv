@@ -1,0 +1,8 @@
+﻿check,result
+样本量是否为 176,True
+字段数是否为 9,True
+是否无缺失值,True
+无 id 列,True
+roof_displacement 最大值,179.00 (参考 179.00)
+roof_displacement 标准差,42.80 (参考 42.80)
+目标变量稳定性,"原始 std=78.04, 清洗后 std=42.80"

@@ -1,0 +1,9 @@
+﻿model_name,short_name,Train_R2,Train_MAE,Train_RMSE,Test_R2,Test_MAE,Test_RMSE,Test_SMAPE,R2_improvement,MAE_improvement,RMSE_improvement,selected
+base_xgboost,base_xgboost,0.9824,4.2177,5.6009,0.8512,13.2433,17.1212,38.1153,0.0,0.0,0.0,False
+Ridge Residual,ridge_residual,0.9825,4.2167,5.592,0.8505,13.2357,17.1628,37.4429,-0.0007,0.0076,-0.0417,False
+SVR Residual,svr_residual,0.9865,3.0054,4.9074,0.85,12.9484,17.1933,35.3182,-0.0013,0.295,-0.0721,False
+MLP Residual,mlp_residual,1.0,0.1689,0.2714,0.8329,12.9714,18.1477,35.8013,-0.0184,0.2719,-1.0265,False
+Random Forest Residual,random_forest_residual,0.9857,3.8315,5.0465,0.8527,13.0671,17.0393,37.44,0.0014,0.1763,0.0819,True
+GBDT Residual,gbdt_residual,0.9848,3.8194,5.2036,0.8472,13.2695,17.3505,38.3915,-0.004,-0.0261,-0.2293,False
+XGBoost Residual,xgboost_residual,0.985,3.9039,5.1698,0.8523,13.0701,17.0574,37.9605,0.0011,0.1733,0.0637,False
+selected_final (Random Forest Residual),selected_final,0.9824,4.2177,5.6009,0.8527,13.0671,17.0393,0.0,0.0015,0.1762,0.0819,True

@@ -1,0 +1,4 @@
+﻿model_name,Train_R2,Train_MAE,Train_RMSE,Test_R2,Test_MAE,Test_RMSE,Test_SMAPE
+baseline_xgboost,0.9824,4.2177,5.6009,0.8512,13.2433,17.1212,38.1153
+optimized_xgboost,0.999,0.9628,1.3484,0.7993,14.5418,19.8865,42.9617
+selected_final (baseline_xgboost),0.9824,4.2177,5.6009,0.8512,13.2433,17.1212,38.1153

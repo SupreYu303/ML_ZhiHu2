@@ -1,0 +1,2 @@
+﻿seed,Train_R2,Train_RMSE,Test_R2,Test_MAE,Test_RMSE,full_mean,full_std,full_median,full_min,full_max,train_mean,train_std,train_median,train_min,train_max,test_mean,test_std,test_median,test_min,test_max,mean_diff,std_diff,median_diff,max_diff,stable_score
+198.0,0.982409,5.600875,0.851236,13.243327,17.121159,58.140398,42.802205,52.0,2.7,179.0,58.014429,42.380365,53.5,2.7,179.0,58.630278,45.019654,50.0,4.2,150.0,0.48988,2.217449,2.0,29.0,0.836135

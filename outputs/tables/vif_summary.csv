@@ -1,0 +1,9 @@
+﻿feature,VIF,collinearity_judgement
+bolt_area,1.6254,共线性较弱
+fracture_degree,1.5132,共线性较弱
+floor_strength,1.3747,共线性较弱
+roof_strength,1.2767,共线性较弱
+anchor_density,1.2472,共线性较弱
+depth,1.2323,共线性较弱
+width,1.227,共线性较弱
+coal_strength,1.1149,共线性较弱

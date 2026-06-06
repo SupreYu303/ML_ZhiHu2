@@ -1,0 +1,2 @@
+﻿best_seed,train_size,test_size,target_train_mean,target_test_mean,target_train_std,target_test_std,target_train_min,target_test_min,target_train_max,target_test_max
+198,140,36,58.014428571428574,58.63027777777778,42.38036487583902,45.01965421496394,2.7,4.2,179.0,150.0

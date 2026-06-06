@@ -1,0 +1,2 @@
+﻿random_state,train_size,test_size,target_train_mean,target_test_mean,target_train_std,target_test_std,target_train_min,target_test_min,target_train_max,target_test_max
+42,140,36,57.92435714285714,58.98055555555556,42.15454943079404,45.847340159299755,2.7,4.2,162.0,179.0
